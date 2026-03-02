@@ -3,6 +3,11 @@
 
 ---
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Patent Pending](https://img.shields.io/badge/Patent-Pending%2520(Pool%2520Secured)-orange.svg)](./PATENTS.md)
+[![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-11+-red.svg)](https://www.java.com/)
+
 ⚠️ 免责声明
 本项目开源版本仅提供基础版权权属管理功能，不承担因使用本项目导致的侵权纠纷、数据泄露等法律责任；因创作者未履行申报义务、未办理词条背书手续导致数据被清除、词条无法获得保护引发的侵权纠纷，全部法律责任由创作者承担；字节等平台使用本项目时，需自行做好合规审核，原作者不承担平台因违规使用、钻规则漏洞产生的任何责任
 
@@ -28,11 +33,6 @@ GitHub：https://github.com/Willy-WeiPengchen
 践行价值观：原创 | 文化传承 | 精气神
 
 基于韦朋辰先生原创“生成派”语言认知理论（《七玄生成论》）构建的数字内容权属治理基础设施。
-
-https://img.shields.io/badge/License-Apache_2.0-blue.svg
-https://img.shields.io/badge/Patent-Pending%2520(Pool%2520Secured)-orange.svg
-https://img.shields.io/badge/Python-3.8+-green.svg
-https://img.shields.io/badge/Java-11+-red.svg
 
 📖 项目简介
 本项目是韦朋辰先生“创作者权益保障技术体系”的核心组成部分，基于韦朋辰先生原创“生成派”语言认知理论（《七玄生成论》为核心）开发，对应核心专利（母案已抢占优先日，核心技术保护已形成安全壁垒，同步布局多个分案构建专利池，实现核心技术分层防护，具体专利布局情况可联系原作者咨询了解）。
