@@ -1,6 +1,7 @@
 # youdi-copyright-dict
 优谛（Youdi）生态核心组件：版权权属词典私享版。开源共建，规则先行，守护创作者原创尊严。商标“优谛”“韦朋辰生成派”归韦朋辰所有，未经授权不得使用。
 
+📢 最新动态：本项目于2026年3月2日正式开源上线，查看新闻详情 https://tech.china.com/articles/20260302/202603021817597.html
 ---
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
