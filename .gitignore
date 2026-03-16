@@ -1,29 +1,69 @@
-# 通用基础忽略项
-.DS_Store
-Thumbs.db
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+.env
+.venv
+env/
+venv.bak/
+
+# IDE & Editors
+.vscode/
+.idea/
 *.swp
 *.swo
-*~
-.idea/
-.vscode/
-*.log
-*.tmp
-*.bak
-.env
-.env.local
+.DS_Store
+Thumbs.db
 
-# 版权词典项目专属忽略项
-# 临时解析/测试文件
-*.parsed
-*.temp.json
-local-test/
-# 办公软件临时文件
-*.xlsx~
-*.docx~
-# 大文件/缓存
-data-cache/
-upload-temp/
-# 压缩包（如需提交可删除此行）
-*.zip
-*.rar
-*.7z
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Local config overrides
+config.local
+settings.local.py
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
